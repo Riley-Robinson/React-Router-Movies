@@ -5,3 +5,4 @@ const MovieCard = props => {
 };
 
 export default MovieCard;
+//adding things to allow to push to branch forgot to open a sperate branch from master oops
